@@ -1,4 +1,4 @@
-# Blue List
+# BlueList
 React Native to-do list mobile app with simple, beautiful UI built with Expo.
 
 ## Demo
